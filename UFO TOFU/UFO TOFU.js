@@ -3,8 +3,8 @@ function Palindrome() {
 	var text = document.getElementById("Palindrome").innerHTML;
 	document.getElementById("Palindrome").innerHTML = function ();
 	//step 1
-	let inputWord = document.getElementById("reverseString").value;
-
+	var inputWord = document.getElementById("reverseString").value;
+	varmd
 	//step 2
 	// loop
 	let lowerInput = inputWord.toLowerCase();
